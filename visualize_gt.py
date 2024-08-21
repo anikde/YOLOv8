@@ -60,7 +60,7 @@ def plot_annotations(image_filename, annotations):
 
 if __name__ == "__main__":
 
-    filename = "OHP_MA_MRR_2022DOS_fin_Addtl_90003536701_1174812192_521576648_2022-09-21_Mack_1703177272612_10"
+    filename = "<filename>.png"
     folder = "test"
 
     image_filename = f"data/{folder}/images/{filename}.jpg"  # Change this to your image filename
