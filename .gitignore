@@ -1,0 +1,8 @@
+# Directories to be ignored
+runs
+data
+
+
+# Files to be ignored
+yolov8n.pt
+check.png
